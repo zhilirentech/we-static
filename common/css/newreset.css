@@ -1,0 +1,23 @@
+/*CSS reset*/
+body,html{text-align:left;}
+html{font-family:'Microsoft Yahei'}  
+body,dl,dd,ul,ol,h1,h2,h3,h4,h5,h6,fieldset,legend,input,button,textarea,p{margin:0;padding:0;}
+em,i,a,span,b,ins,strong,label,button,input,textarea,select,img{display: inline-block;*display: inline;*zoom: 1;vertical-align: middle;}
+body, button, input, select, textarea{font-family: 'Microsoft YaHei';}
+button{cursor:pointer;background:none;}
+button,img{border:none;}
+button,input,textarea{outline:none;}
+textarea{resize: none;overflow:auto;}
+em,i{font-style:normal;}
+h1,h2,h3,h4,h5,h6,strong{font-size:100%;font-weight:normal;}
+ul,li{list-style-type: none;}
+a,u,ins{text-decoration: none;}
+/*显示隐藏*/
+.hide{display: none}
+.show{display: block}
+/*清除浮动*/
+.hd:after,.hd:before,.hdc:after,.hdc:before,.nav:after,.nav:before,.wrap:after,.wrap:before,.main:after,.main:before,.mainc:after,.mainc:before,.side:after,.side:before,.sidec:after,.sidec:before,.tt:after,.tt:before,.ct:after,.ct:before{display: table;content: " ";clear: both;}
+
+
+
+
