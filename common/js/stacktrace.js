@@ -8,7 +8,7 @@
   win.ErrorTrace = [];
 
   // set a url to pesist your error traces
-  proto.url = 'http://www.uxuexi.com/jsex.json';
+  proto.url = 'http://www.we.com/jsex.json';
   // run a supervisor
   proto.track = function() {
     var that = this;
